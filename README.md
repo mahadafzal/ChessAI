@@ -1,1 +1,3 @@
 # ChessAI
+
+Artificial Intelligence has overwhelmed the way games are played in the contemporary world. Kasparov’s defeat at the hands of Deep Blue IBM paved way for further investigations that led to the sub-field of Adversarial Search. In this assignment, a program was developed to consider the next best move given a chess configuration. The problem at hand was the time and memory constraints faced when considering all possibilities of the strategy adapted by the opponent. Hence, depth-limited H-minimax and Alpha-Beta pruning was implemented to consider the best possible move within the constraints. The results indicate that exploration policies of the possible moves significantly affect the number of nodes examined and hence the time/memory required.
